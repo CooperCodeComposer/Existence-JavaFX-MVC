@@ -11,6 +11,7 @@ There are three kinds of life forms in the ecosystem: Red, Blue and Green
 + Green eat red
 
 You are The Protector. It's your job to maintain a balanced ecosystem.
+Use ARROW KEYS to control The Protector.
 
 + If you come into contact with a life form it will self replicate
 + There must be at least 1 of each species alive at any time
