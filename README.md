@@ -22,6 +22,11 @@ Use ARROW KEYS to control The Protector.
 
 ![Alt text](/ExistenceSS.png?raw=true "")
 
+##ToDo 
++ Add ability to show why gameOver occured and restart game
++ Add soundFX and music
++ Implement different levels and increasing difficulty 
+
 # Author
 Alistair Cooper
 
