@@ -19,6 +19,7 @@ Use ARROW KEYS to control The Protector.
  
 ##Features:
 + Model, View, Controller design pattern
++ Follows the interpretation of MVC outlined in "Head First Design Patterns" where views register as observers of the model layer. The model layer then notifies the views directly. 
 
 ![Alt text](/ExistenceSS.png?raw=true "")
 
